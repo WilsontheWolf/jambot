@@ -1,0 +1,7 @@
+data/
+node_modules/
+backups/
+shrinkwrap.yaml
+.vscode/
+.env
+src/config.js

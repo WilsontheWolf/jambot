@@ -1,0 +1,11 @@
+{
+  "name": "jambot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
